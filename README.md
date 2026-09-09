@@ -8,7 +8,7 @@ An advanced ophthalmology screening system designed to automate the classificati
 * **Optimized Augmentation:** Implemented custom image augmentation arrays to handle variation in lighting and resolution across clinical datasets.
 * **Robust Evaluation:** Utilized precision-recall graphs and confusion matrices to maximize screening throughput while minimizing classification errors.
 
-## ech Stack & Tools Used
+## Tech Stack & Tools Used
 * **Core Frameworks:** Python, PyTorch, Torchvision, CUDA/GPU Acceleration
 * **Data & Analytics:** Scikit-Learn Metrics, NumPy, Matplotlib, Google Colab
 * **Domain Applications:** Computer Vision, Transfer Learning, Ophthalmology Image Analytics
